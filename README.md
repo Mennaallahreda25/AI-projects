@@ -1,7 +1,8 @@
 # AI-projects
 this is repo for AI projects 
 
-about implementation AI:
+
+# about implementation AI:
 AI Pipeline
 AI pipeline is the sequence of operations to be done to create an AI model to solve a specific problem
 
